@@ -4,6 +4,10 @@
 *.dll
 *.so
 *.dylib
+bin/
+
+#editors
+.vscode
 
 # Test binary, built with `go test -c`
 *.test
